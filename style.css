@@ -1,0 +1,25 @@
+.container {
+  max-width: 500px; 
+  margin-left: 50px;
+  font-family: 'Reggae One', cursive;
+
+}
+
+#card-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around; 
+ }
+
+section {
+    text-align: center; 
+     width: 300px;
+}
+
+.image {
+  width: 200px;
+  display: block;
+  text-align: center;
+ margin-left: auto;
+  margin-right:auto;
+ }
